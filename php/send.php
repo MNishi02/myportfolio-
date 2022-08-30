@@ -14,7 +14,7 @@
 	<!-- orabel css -->
 	<link rel="stylesheet" href="../css/style.css">
 	<!-- page title -->
-	<title>Orabel</title>
+	<title>Nishi Malpani </title>
 </head>
 
 <body onLoad="setTimeout('delayedRedirect()', 5000)">
